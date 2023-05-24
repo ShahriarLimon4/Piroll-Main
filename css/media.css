@@ -1,0 +1,352 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    header{
+        
+    }
+    .c-sec{
+        margin: 30px 0 30px 0 ;
+    }
+    /* common code  */
+    .navbar{
+        padding: 0px 10px;
+    }
+    .logo{
+       width: 100px;
+    }
+    .c-nav-item{
+        margin: 0px 0px;
+        text-align: end;
+        
+    }
+    .banner{
+        max-height: 200px;
+        min-height: 150px;
+    }
+    .col-7{
+        padding-right: 0px;
+        padding-left: 40px;
+    }
+    .banner-text {
+        margin-top: 45px;
+        text-align: center;
+    }
+    .banner-text h1{
+        font-size: 20px;
+        margin: 0px;
+        
+    }
+    .banner-text p {
+       display: none;
+    }
+    .btn-custom {
+        margin: 10px 00 00 00px;
+        width: 106px;
+        height: 35px;
+        font-size: 15px;
+    }
+    /* nav end  */
+    /* about us start  */
+
+        .about-us{}
+
+        .a-u-txt{}
+
+        .a-u-txt h1{
+            font-size: 20px;
+        }
+
+        .a-u-txt p{
+            margin: 10px 0 15px 0;
+            font-size: 15px;
+        }
+
+        .sign-img{
+            
+        }
+
+        .sign-img img{
+            width: 50%;
+        }
+
+        /* about us end  */
+        /* pro skills start  */
+    .pro-skills{}
+    .pro-skills .col-lg-6{}
+
+    .pro-skills-txt{
+        margin-top: 20px;
+    }
+    .pro-skills-txt h1{
+        font-size: 20px;
+    }
+
+    .pro-skills-img{
+        height: 200px;
+    }
+    .pro-skills-img img{
+        
+    }
+
+    progress{
+       
+    }
+    /* pro skills end  */
+     /* details start  */
+     .details{
+    }
+    .c-details{
+        padding: 30px 0px
+    }
+
+    .c-row h1{
+        font-size: 20px; 
+    }
+
+    /* details end  */
+    .picture-footer{
+        padding: 5px 0;
+    }
+    .picture-footer a{
+        font-size: 16px;
+    }
+    .carousel-indicators {
+        bottom: -35px;
+    }
+
+    .company .col-4{
+        margin-bottom: 25px;
+    }
+    .form-row .row {
+        margin-bottom: 10px;}
+        i{
+            font-size: 30px;}
+            .btn-f{
+                width: 150px;
+            }
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    header{
+      
+    }
+    .c-sec{
+        margin: 50px 0 50px 0 ;
+    }
+    /* common code  */
+    .navbar{
+        padding: 25px 50px;
+    }
+    .logo{
+        width: 100px;
+    }
+    .c-nav-item{
+        margin: 0px 0px;
+        text-align: end;
+        
+    }
+    .banner{
+        height: 270px;
+    }
+   
+    .banner-text {
+        margin-top: 100px;
+        text-align: center;
+    }
+    .banner-text h1{
+        font-size: 24px;
+       
+    }
+    .banner-text p {
+       display: none;
+    }
+    .btn-custom {
+        margin: 20px 00 00 00px;
+        width: 106px;
+        height: 40px;
+        font-size: 15px;
+    }
+    /* nav end  */
+    /* pro skills start  */
+    .pro-skills{}
+    .pro-skills .col-lg-6{}
+
+    .pro-skills-txt{
+        margin-top: 30px;
+    }
+
+    .pro-skills-img{
+        height: 250px;
+    }
+    .pro-skills-img img{
+        
+    }
+
+    progress{
+       
+    }
+    /* pro skills end  */
+    /* details start  */
+    .details{
+    }
+    .c-details{
+        padding: 30px 0px
+    }
+
+    .c-row h1{
+        font-size: 24px; 
+    }
+
+    /* details end  */
+    .picture-footer{
+        padding: 10px 0;
+    }
+    .picture-footer a{
+        font-size: 16px;
+    }
+    .carousel-indicators {
+        bottom: -40px;
+    }
+    .form-row .row {
+        margin-bottom: 20px;}
+        i{
+            font-size: 30px;}
+            .btn-f{
+                width: 150px;
+            }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    header{
+       
+    }
+    .c-sec{
+        margin: 60px 0 60px 0 ;
+    }
+    /* common code  */
+    .navbar{
+        padding: 25px 50px;
+    }
+    
+    .logo{
+        
+    }
+    .c-nav-item{
+        margin: 0px 0px;
+        text-align: end;
+        
+    }
+    .banner{
+        height: 360px;
+    }
+   
+    .banner-text {
+        margin-top: 65px;
+    }
+    .banner-text h1{
+       
+    }
+    .banner-text p {
+        font-size: 16px;
+        margin: 10px 0px 10px 0px;
+    }
+    .btn-custom {
+        width: 120px;
+        height: 45px;
+        font-size: 16px;
+    }
+    /* nav end  */
+    /* pro skills start  */
+    .pro-skills{}
+    .pro-skills .col-lg-6{}
+
+    .pro-skills-txt{
+        margin-top: 50px;
+    }
+
+    .pro-skills-img{
+        height: 360px;
+    }
+    .pro-skills-img img{
+        
+    }
+
+    progress{
+       
+    }
+    /* pro skills end  */
+    /* details start  */
+    .details{
+    }
+    .c-details{
+        padding: 60px 0px
+    }
+
+    .c-row{ 
+    }
+
+    /* details end  */
+    .picture-footer{
+        padding: 15px 0;
+    }
+    .picture-footer a{
+        font-size: 18px;
+    }
+    .carousel-indicators {
+        bottom: -50px;
+    }
+    i{
+        font-size: 45px;}
+
+    .btn-f{
+        width: 150px;
+    }
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    header{
+       
+    }
+    .c-sec{
+        margin: 80px 0 80px 0 ;
+    }
+    /* common code  */
+    .navbar{
+        padding: 25px 50px;
+    }
+    .logo{
+        
+    }
+    .c-nav-item{
+        margin: 0px 0px;
+        text-align: end;
+        
+    }
+    .banner{
+        height: 500px;
+    }
+    .banner-text {
+        margin-top: 150px;
+    }
+    .banner-text h1{
+        font-size: 34px;
+    }
+    .banner-text p {
+        font-size: 16px;
+        margin: 20px 50px 20px 0px;
+    }
+    /* nav end  */
+    .box4{margin-bottom:30px}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+}
